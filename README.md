@@ -10,7 +10,7 @@ When we compare the ride-sharing data among city types one fact stands out above
 But while urban areas are where the rides are, that is not necessarily where the profits are. When we look at the percentage of total fares by city type, we see the urban share of the fares drops by 6% of the total, made up for by fares in suburban areas, which increas by more than 4%, and the remainder from rural fares.
 ![Figure 5](https://github.com/JDittes/PyBer_Analysis/blob/main/Fig5.png)
 
-The number of drivers is even more skewed by city type than the share of rides and fares. More than 80% of the drivers work in Urban areas, while only 3% work in rural areas, and 16& work in suburban areas. This has a significant effect on fare.![Figure 6](https://github.com/JDittes/PyBer_Analysis/blob/main/Fig6.png)
+The number of drivers is even more skewed by city type than the share of rides and fares. More than 80% of the drivers work in Urban areas, while only 3% work in rural areas, and 16& work in suburban areas. This has a significant effect on fare.![Figure 6](https://github.com/JDittes/PyBer_Analysis/blob/main/TotalDrivers.png)
 
 The effect on fares is significant. Average fares are much higher in rural and suburban areas.
 ![Figure 7](https://github.com/JDittes/PyBer_Analysis/blob/main/AvAreaFare.png).
